@@ -1,0 +1,15 @@
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\bin\Debug\net9.0\lab-11-madlibs-2-morales-c.exe
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\bin\Debug\net9.0\lab-11-madlibs-2-morales-c.deps.json
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\bin\Debug\net9.0\lab-11-madlibs-2-morales-c.runtimeconfig.json
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\bin\Debug\net9.0\lab-11-madlibs-2-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\bin\Debug\net9.0\lab-11-madlibs-2-morales-c.pdb
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\lab-11-madlibs-2-morales-c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\lab-11-madlibs-2-morales-c.AssemblyInfoInputs.cache
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\lab-11-madlibs-2-morales-c.AssemblyInfo.cs
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\lab-11-madlibs-2-morales-c.csproj.CoreCompileInputs.cache
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\lab-11-madlibs-2-morales-c.sourcelink.json
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\lab-11-madlibs-2-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\refint\lab-11-madlibs-2-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\lab-11-madlibs-2-morales-c.pdb
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\lab-11-madlibs-2-morales-c.genruntimeconfig.cache
+C:\Users\wjnpy\code\my-code-dir\lab-11-madlibs-2-morales-c\obj\Debug\net9.0\ref\lab-11-madlibs-2-morales-c.dll
